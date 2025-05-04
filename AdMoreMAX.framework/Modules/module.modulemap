@@ -1,0 +1,6 @@
+framework module AdMoreMAX {
+  umbrella header "AdMoreMAX.h"
+  export *
+
+  module * { export * }
+}
