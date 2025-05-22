@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AdMoreNuSDK'
-  s.version          = '3.4.5'
+  s.version          = '3.4.6'
   s.summary          = 'AdMore adapter for Taku mediation.'
   s.description      = 'A lightweight .framework adapter to integrate AdMore with sdk mediation.'
   s.homepage         = 'https://github.com/shaoqianqian/AdMoreNuSDK.git'
